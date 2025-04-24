@@ -2,7 +2,7 @@
 {
 	"name": "pengajuan-surat",
 	"compatibility_date": "2025-04-24",
-	"main": "server/api/index.ts",
+	"main": "api/index.ts",
 	"assets": {
 		"not_found_handling": "single-page-application"
 	},
